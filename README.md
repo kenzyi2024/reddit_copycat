@@ -1,4 +1,4 @@
-# Reddview
+# Reddit CopyCat
 
 A Reddit client that allows users to view recent posts from multiple subreddits simultaneously.
 
